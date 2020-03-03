@@ -3,29 +3,35 @@ Here's a cool thought exercise:
 
 Let's think of a triangle and name its vertices V1, V2 and V3.
 
-![Sierpinski](/resources/Triangle1.bmp)
+<p align="center">
+  <img width="300" height="300" src="/resources/Triangle1.bmp">
+</p>
 
 Pick a random vertex, say, V2 and put a dot on it.
 
-![Sierpinski](/resources/Triangle2.bmp)
+<p align="center">
+  <img width="300" height="300" src="/resources/Triangle2.bmp">
+</p>
 
 After that, randomize another vertex, say, V3, and put another dot halfway between dot 1 and V3.
 
-![Sierpinski](/resources/Triangle3.bmp)
+<p align="center">
+  <img width="300" height="300" src="/resources/Triangle3.bmp">
+</p>
 
 Now, continue to add dots, randomizing the target vertex of the movement. Always going halfway.
 For example, to V1:
 
 <p align="center">
-  <img width="460" height="300" src="/resources/Triangle4.bmp">
+  <img width="300" height="300" src="/resources/Triangle4.bmp">
 </p>
-
-![Sierpinski](/resources/Triangle4.bmp)
 
 After performing many more movements, the result would be:
 (V3 - V2 - V1 - V1 - V1 - V3)
 
-![Sierpinski](/resources/Triangle5.bmp)
+<p align="center">
+  <img width="300" height="300" src="/resources/Triangle5.bmp">
+</p>
 
 I think that's enough. The question is:
 
