@@ -16,10 +16,14 @@ After that, randomize another vertex, say, V3, and put another dot halfway betwe
 Now, continue to add dots, randomizing the target vertex of the movement. Always going halfway.
 For example, to V1:
 
+<p align="center">
+  <img width="460" height="300" src="/resources/Triangle4.bmp">
+</p>
+
 ![Sierpinski](/resources/Triangle4.bmp)
 
 After performing many more movements, the result would be:
-
+(V3 - V2 - V1 - V1 - V1 - V3)
 
 ![Sierpinski](/resources/Triangle5.bmp)
 
