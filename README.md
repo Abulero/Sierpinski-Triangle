@@ -43,12 +43,14 @@ The result is pretty interesting, but for that we'll need some computer power. J
 python SierpinskiTriangle.py [IMAGE SIZE] [NUMBER OF DOTS]
 ```
 
-Where [IMAGE SIZE] is the size of the square image generated in pixels and [NUMBER OF DOTS] is the number of dots to be added. For good measure, the following yields good results:
+Where [IMAGE SIZE] is the size in pixels of the square image generated which will contain the triangle and [NUMBER OF DOTS] is the number of dots to be added to it. For instance, 1000 and 100 would create a 1000x1000 image containing 100 generated dots.
+
+Start low and slowly increase the number of dots so you can try to identify a pattern. Try 1000 and 100, then 1000 and 10000. In the end, go big. For good measure, the following yields good results:
 
 ```
 python SierpinskiTriangle.py 2000 1000000
 ```
 
-I'll not spoil the results. And if you are interested in understanding what it all means, check out this page on wikipedia:
+I'm not going to spoil what happens. And if you are interested in understanding what it all means, check out this page on wikipedia:
 
 https://en.wikipedia.org/wiki/Sierpi%C5%84ski_triangle
