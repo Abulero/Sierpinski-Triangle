@@ -37,7 +37,7 @@ I think that's enough. The question is:
 
 What would happen if we added 100, 1000 or even 1000000 more dots?
 
-The result is pretty interesting, but for that we'll need some computer power. Just clone the .py file and execute it using:
+The result is pretty interesting, but for that we'll need some computer power. Just clone the .py file and make sure you have python3 and pillow installed. Now navigate to the file's directory on your terminal/cmd and execute it using:
 
 ```
 python SierpinskiTriangle.py [IMAGE SIZE] [NUMBER OF DOTS]
