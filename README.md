@@ -13,8 +13,8 @@ After that, randomize another vertex, say, V3, and put another dot halfway betwe
 
 ![Sierpinski](/resources/Triangle3.bmp)
 
-After that, we'll continue to add dots, randomizing the target vertex of the movement. Always going halfway.
-For example, now to V1:
+Now, continue to add dots, randomizing the target vertex of the movement. Always going halfway.
+For example, to V1:
 
 ![Sierpinski](/resources/Triangle4.bmp)
 
